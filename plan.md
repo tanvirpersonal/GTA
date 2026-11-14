@@ -71,7 +71,7 @@ Modules talk through the `game` object (shared state) and a tiny event bus (`cri
 - [x] `plan.md` — this file
 
 ### Foundation
-- [ ] `vendor/three.core.min.js` — Three.js core (vendored)
+- [x] `vendor/three.core.min.js` — Three.js core (vendored)
 - [ ] `vendor/three.module.min.js` — Three.js module build (vendored)
 - [ ] `js/config.js` — all tunable constants (world size, speeds, damage, wanted levels, colours)
 - [ ] `js/utils.js` — math helpers, seeded RNG, event bus, canvas-texture helper
